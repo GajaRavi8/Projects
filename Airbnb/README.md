@@ -10,4 +10,4 @@ Moreover, Airbnb charges the host 3% for every successful transaction.
 Airbnb is losing its commissions due to under-pricing the property rates when demand is high.								
 and overpricing it when it is supposed to be competitive.								
 Airbnb wants to optimise the its revenue/commission by optimizing the prices of the properties								
-![image](https://github.com/GajaRavi8/Projects/assets/98515192/84873ab2-2972-4bfa-a89e-30ae8a76ca91)
+
